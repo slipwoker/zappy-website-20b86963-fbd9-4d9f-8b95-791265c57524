@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://king-20b86963.zappy5.app
+https://example.com
 מותג קלפי הפרימיום שמוביל את תחום קינג עבדולעזיז יוניברסיטי בעולם המשחקים. קלפים באיכות בלתי מתפשרת לשחקנים ואספנים רציניים. הצטרף למועדון האלופות עוד היום.
 
 ### אומנות
-https://king-20b86963.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 הצצה נדירה לתהליך היצירה המוקפד שמאחורי קלפי קינג סעוד יוניברסיטי. חומרי גלם מובחרים, גימור ידני, ועיצוב שהופך כל משחק לחוויה. לחץ כדי להבין את ההבדל.
 
 ### אודות קינג
-https://king-20b86963.zappy5.app/about
+https://example.com/about
 מסע המותג קינג מחזון נועז למציאות יוקרתית בעולם הקלפים. הכירו את התשוקה, החדשנות, והמחויבות למצוינות שמגדירה כל חפיסה שלנו. גלו את המורשת עכשיו.
 
 ### צור קשר
-https://king-20b86963.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על קלפי קינג עבדולעזיז יוניברסיטי? רוצה לשתף פעולה או סתם להגיד שלום? אנחנו כאן בשבילך. מלא את הפרטים ונתחיל שיחה שתשנה את המשחק.
 
 ### Products
-https://king-20b86963.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - King
 
 ### Cart
-https://king-20b86963.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://king-20b86963.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://king-20b86963.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://king-20b86963.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://king-20b86963.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://king-20b86963.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - King
 
 ### Category
-https://king-20b86963.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - King
 
 ### תודה רבה - King
-https://king-20b86963.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. ההודעה התקבלה בהצלחה ואנו נחזור אליך בהקדם. King - חנות למשחקים וקלפים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://king-20b86963.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://king-20b86963.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://king-20b86963.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ E-commerce / Gaming & Card Games
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://king-20b86963.zappy5.app/sitemap.xml
-- Robots: https://king-20b86963.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://king-20b86963.zappy5.app/llms-full.txt
-- Products (JSON): https://king-20b86963.zappy5.app/products.json
-- Products (Google Merchant RSS): https://king-20b86963.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
